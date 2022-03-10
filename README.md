@@ -1,6 +1,6 @@
 # Python_Stone_paper_scissor_game
 
-Easy Algrithom
+Easy Algrithom <br />
 <b>Game</b>: Stone Paper Scissor
 
 <p align="center">
