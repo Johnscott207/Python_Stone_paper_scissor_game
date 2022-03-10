@@ -1,5 +1,7 @@
 # Python_Stone_paper_scissor_game
 
+Easy Algrithom
+<b>Game</b>: Stone Paper Scissor
 
 <p align="center">
   <h3>Screenshot 1</h3>
